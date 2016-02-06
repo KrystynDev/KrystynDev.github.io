@@ -1,25 +1,29 @@
 
 body {
-	background-color: #D2E6E3;
+	background-color: #d5eff6;
 }
 
 nav {
-	background-color: #eff6f5;
+	background-color: #eaf7fb;
 }
 
 h2, h3, h4 {
 	color: #13201e;
 }
 
-#resume-box {
-	background-color: #eff6f5;
+h3 {
+	font-family: 'Gill Sans';
+	
 }
 
-.footer {
-	background-color: #eff6f5;
-	border-color: #eff6f5;
+#resume-box {
+	background-color: #eaf7fb;
 }
 
 .navbar-brand img {
 	height: 100%;
+}
+
+.well.clearfix.col-md-11 {
+	background-color: #fff;
 }
