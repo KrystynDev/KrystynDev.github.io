@@ -3,20 +3,20 @@ body {
 	background-color: #d5eff6;
 }
 
-nav {
-	background-color: #eaf7fb;
-}
+h2 {
+	font-weight: 600;
 
-h2, h3, h4 {
-	color: #13201e;
 }
-
-h3 {
+h2, h3 {
 	font-family: 'Gill Sans';
-	
+	color: #a660a8;	
 }
 
-#resume-box {
+h4 {
+	color: #595959;
+}
+
+nav {
 	background-color: #eaf7fb;
 }
 
@@ -24,6 +24,24 @@ h3 {
 	height: 100%;
 }
 
+p {
+	color: #595959;
+}
+
+#picture-box {
+	background-color: #fff;
+}
+
+#resume-box {
+	background-color: #eaf7fb;
+}
+
+#resume-box h2{
+	margin-top: 0;
+}
+
 .well.clearfix.col-md-11 {
 	background-color: #fff;
+	font-weight: bolder;
+	color: #595959;
 }
