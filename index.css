@@ -7,10 +7,6 @@ nav {
 	background-color: #eff6f5;
 }
 
-.navbar-brand {
-	font-color: #13201e;
-}
-
 h2, h3, h4 {
 	color: #13201e;
 }
@@ -22,4 +18,8 @@ h2, h3, h4 {
 .footer {
 	background-color: #eff6f5;
 	border-color: #eff6f5;
+}
+
+.navbar-brand img {
+	height: 100%;
 }
