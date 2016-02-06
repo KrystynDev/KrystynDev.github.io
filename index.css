@@ -1,0 +1,25 @@
+
+body {
+	background-color: #D2E6E3;
+}
+
+nav {
+	background-color: #eff6f5;
+}
+
+.navbar-brand {
+	font-color: #13201e;
+}
+
+h2, h3, h4 {
+	color: #13201e;
+}
+
+#resume-box {
+	background-color: #eff6f5;
+}
+
+.footer {
+	background-color: #eff6f5;
+	border-color: #eff6f5;
+}
