@@ -40,6 +40,10 @@ p {
 	margin-top: 0;
 }
 
+#topics {
+	margin-bottom: 25px;
+}
+
 .well.clearfix.col-md-11 {
 	background-color: #fff;
 	font-weight: bolder;
